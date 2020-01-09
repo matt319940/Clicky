@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "Cahir",
+        "image": "../imgs/cahir.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Calanthe",
+        "image": "../imgs/calanthe.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Ciri",
+        "image": "../imgs/ciri.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Duny",
+        "image": "../imgs/duny.png"
+    },
+    {
+        "id": 5,
+        "name": "Eist",
+        "image": "../imgs/eist.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Yennefer",
+        "image": "../imgs/yennefer.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Geralt",
+        "image": "../imgs/geralt.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Istredd",
+        "image": "../imgs/istredd.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Jaskier",
+        "image": "../imgs/jaskier.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Pavetta",
+        "image": "../imgs/pavetta.png"
+    },
+    {
+        "id": 11,
+        "name": "Renfri",
+        "image": "../imgs/renfri.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Stregobor",
+        "image": "../imgs/stregobor.jpg"
+    }
+
+]
